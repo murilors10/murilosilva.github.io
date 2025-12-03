@@ -13,6 +13,13 @@ author_profile: true
 
 ****
 
+## Professor, Union College
+
+- Intro to Financial Analysis (Fall 2025)
+- Corporate Finance (Winter 2026)
+
+****
+
 ## Instructor, UC Riverside
 
 - Introduction to Microeconomics (Summer 2022)
