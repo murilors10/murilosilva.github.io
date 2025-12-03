@@ -13,7 +13,7 @@ permalink: /research/
 
 - Grittersova, J., Mavroeidi, E., and **Silva, M.** (2025). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_.
 
-- **Silva, M.** (2025). Climate disaster risk and the cross-section of U.S. stock returns. _Submitted_
+- **Silva, M.** (2025). Climate disaster risk and the cross-section of U.S. stock returns. _Submitted_.
 
 **** 
 ## <u>Journal Publications</u>
