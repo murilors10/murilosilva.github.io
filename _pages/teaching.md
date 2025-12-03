@@ -33,7 +33,7 @@ author_profile: true
 
 - Macroeconomic Theory (Graduate level, Winter 2023)
 - Intermediate Macroeconomics (Spring 2022, Fall 2022, Spring 2023, Fall 2023)
-- Stock Market (Spring 2024)
+- Stock Market (Spring 2024, Fall 2024)
 - Statistics for Economics (Summer 2022)
 - Introduction to Macroeconomics (Fall 2021, Winter 2022)
 - Introduction to Microeconomics (Winter 2024)
