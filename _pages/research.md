@@ -9,11 +9,11 @@ permalink: /research/
 ****
 ## <u>Working Papers</u>
 
-- Morana, C., Chauvet, M., and **Silva, M.** (2025). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _R&R at European Economic Review_.
+- Morana, C., Chauvet, M., and **Silva, M.** (2025). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _Forthcoming at European Economic Review_.
 
-- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2025). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_.
+- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2025). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _R&R_.
 
-- **Silva, M.** (2025). Climate disaster risk and the cross-section of U.S. stock returns. _Submitted_.
+- **Silva, M.** (2025). Climate disaster risk and the cross-section of U.S. stock returns. _Under Review_.
 
 **** 
 ## <u>Journal Publications</u>
