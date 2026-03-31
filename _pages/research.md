@@ -9,14 +9,14 @@ permalink: /research/
 ****
 ## <u>Working Papers</u>
 
-- Morana, C., Chauvet, M., and **Silva, M.** (2026). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _Forthcoming at European Economic Review_.
-
 - Grittersova, J., Mavroeidi, E., and **Silva, M.** (2026). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _R&R_.
 
 - **Silva, M.** (2026). Climate disaster risk and the cross-section of U.S. stock returns. _Under Review_.
 
 **** 
 ## <u>Journal Publications</u>
+
+[5] Chauvet, M., Morana, C., and **Silva, M.** (2026). [Extreme Weather in Europe: Determinants and Economic Impact](https://www.sciencedirect.com/science/article/pii/S0014292126000711). _European Economic Review_, 186, 105327.
 
 [4] **Silva, M.**, and Da Silva, S. (2020). [The Brazilian granular business cycle](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I1-P40.pdf). _Economics Bulletin_, 40(1), 463--472. 
 
