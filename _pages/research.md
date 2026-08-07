@@ -8,8 +8,10 @@ permalink: /research/
 
 ****
 ## <u>Working Papers</u>
+{% include base_path %}
+<a href="https://murilo-silva.com/files/cv_murilo_silva.pdf" target="_blank" rel="noopener noreferrer">Download CV Here</a>.
 
-- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2026). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_. [Slides](https://murilo-silva.com/blob/master/files/LAMacro_Silva.pdf)
+- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2026). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_. [Slides](https://murilo-silva.com/files/LAMacro_Silva.pdf)
 
 - **Silva, M.** (2026). Climate disaster risk and the cross-section of U.S. stock returns. _Under Review_.
 
