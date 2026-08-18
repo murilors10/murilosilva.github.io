@@ -9,9 +9,21 @@ permalink: /research/
 ****
 ## <u>Working Papers</u>
 
-- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2026). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_. [Slides](https://murilo-silva.com/files/LAMacro_Silva.pdf)
+- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2026). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Under Review_.
 
 - **Silva, M.** (2026). Climate disaster risk and the cross-section of U.S. stock returns. _Under Review_.
+
+****
+## <u>Work in Progress</u>
+
+- **Silva, M.** Fintech competition and OTC markets: how community banks capitalize in the digital age.
+
+- Grittersova, J., and **Silva, M.** Do financial markets listen when politicians talk about monetary policy? The case of the Bank of England.
+
+- Lee, D., Lee, S., and **Silva, M.** US Monetary Policy and Mutual Fund Flows in EMEs.
+
+- Chauvet, M., Morana, C., and **Silva, M.** Extreme Weather and Financial Spillovers in Europe.
+
 
 **** 
 ## <u>Journal Publications</u>
