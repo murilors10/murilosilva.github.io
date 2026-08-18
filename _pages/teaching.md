@@ -7,20 +7,14 @@ author_profile: true
 
 ****
 
-## Awards
+## Instructor of Record
 
-- Outstanding Teaching Assistant Award, UC Riverside (2024)
+**Union College**
 
-****
-
-## Professor, Union College
-
-- Intro to Financial Analysis (Fall 2025)
+- Intro to Financial Analysis (Fall 2025, Spring 2026)
 - Corporate Finance (Winter 2026)
 
-****
-
-## Instructor, UC Riverside
+**UC Riverside**
 
 - Introduction to Microeconomics (Summer 2022)
 - Industrial Organization (Summer 2023)
@@ -37,6 +31,12 @@ author_profile: true
 - Statistics for Economics (Summer 2022)
 - Introduction to Macroeconomics (Fall 2021, Winter 2022)
 - Introduction to Microeconomics (Winter 2024)
+
+****
+
+## Awards
+
+- Outstanding Teaching Assistant Award, UC Riverside (2024)
 
 ****
 
