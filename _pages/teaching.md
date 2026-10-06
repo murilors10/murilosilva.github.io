@@ -11,7 +11,7 @@ author_profile: true
 
 **Union College**
 
-- Intro to Financial Analysis (x3)
+- Intro to Financial Analysis
 - Corporate Finance
 
 **UC Riverside**
@@ -26,10 +26,10 @@ author_profile: true
 ## Teaching Assistant, UC Riverside
 
 - Macroeconomic Theory (Graduate level)
-- Intermediate Macroeconomics (x4)
-- Stock Market (x2)
+- Intermediate Macroeconomics
+- Stock Market
 - Statistics for Economics
-- Introduction to Macroeconomics (x2)
+- Introduction to Macroeconomics
 - Introduction to Microeconomics
 
 ****
